@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hamjeth.vercel.app/](https://hamjeth.vercel.app/)
 
-- 📝 I regularly write articles on [https://hamjeth.vercel.app/](https://hamjeth.vercel.app/)
+- 📝 I regularly write articles on [[https://dev.to/hamjeth68](https://dev.to/hamjeth68)]
 
 - 📫 How to reach me **hamjeth68@gmail.com**
 

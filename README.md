@@ -19,7 +19,7 @@
 
 #### 🛠️ Building now
 
-- **Agentic Pentesting** — AI-assisted security testing: a FastAPI control plane and an isolated worker that run an open-source agentic pentesting engine against applications a team owns. *(private, in development)*
+- **Pentra** — an AI pentesting platform that runs autonomous, agent-driven security tests against applications a team owns, inside isolated sandboxes. *(private, in development)*
 - **Skolee**, **Tuition Notes** and **Staymesh** — education and hospitality products. *(in development)*
 
 #### 📦 Shipped
